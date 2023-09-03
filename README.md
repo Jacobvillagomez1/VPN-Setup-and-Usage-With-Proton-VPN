@@ -220,3 +220,184 @@ Then click confirm and start browsing
 Then type whatismyipaddress in the search bar and click the site
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/e323648d-e07f-4a57-897c-1789bbb9df46"/>
+</p>
+<p>
+Then go to the MY IP section
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/08e4e3ca-e881-44d5-9594-c9fab99b0433"/>
+</p>
+<p>
+Then you will see the IPv4 and the city, region, and the country
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/909f7e1d-2e10-47e5-9fcb-e55a122b993d"/>
+</p>
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/8ba6de5f-7b7d-4fd9-a372-b0d117983bd1"/>
+</p>
+<p>
+Then type proton VPN download in the search bar and scroll down till you see download VPN
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/98d54564-6d6d-47f2-a879-f3697e32b9e4"/>
+</p>
+<p>
+Next click Download Proton VPN
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/41507a62-9102-4018-80ea-89e231b27410"/>
+</p>
+<p>
+Next go to file explorer, go to the download folder, and double click the software to open it
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/724f74e2-f370-4f36-ada0-41d1e1c21396"/>
+</p>
+<p>
+Next click the next button
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/25df9158-e76b-41f8-87ad-3028a5cc16ac"/>
+</p>
+<p>
+Next click the next button
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/9cc3514b-58f5-4e77-9f80-0cf194b75936"/>
+</p>
+<p>
+Next click the install button
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/485d14f7-b5c0-4694-8b93-7f025a2dc725"/>
+</p>
+<p>
+Now create an account in the bottom left, if you have an account type your username and password
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/e017fdda-1160-4e38-8ddb-2d05e6f5bda0"/>
+</p>
+<p>
+Now once it loads click the skip button unless you want a tour
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/b425fc99-aab2-49dd-93f4-874468f3431d"/>
+</p>
+<p>
+Next connect to whatever country you want for this I will pick Japan, then click the purple button
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/f659d68f-725e-440b-8b02-d8c6b5916e97"/>
+</p>
+<p>
+Next let the VPN load dont click anything 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/2ead675f-c5ba-4097-884e-00e109d1541b"/>
+</p>
+<p>
+Now if you see a Reconnecting tab dont click cancel, let the process finish 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/d21bf5cf-6718-4f3e-b4b2-6b8686359d11"/>
+</p>
+<p>
+Now go back to whatisyouripaddress.com and refresh the page and you will see your IP, city, region, and country changed
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/a1dbdeda-3902-4542-bef3-995c19e668ec"/>
+</p>
+<p>
+Now go back to Proton VPN and click quick connect!!!!!!!!!!!!!!!!!!!!!!!
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/5e945006-b9a4-4c71-b045-29444d0cfeda"/>
+</p>
+<p>
+Now click the bar at the top left and click sign out to sign out of your account!!!!!!!!!!!!!!!!!!!!!!!
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/8e7cbc6b-ab7e-4060-871f-c8474ab11f2a"/>
+</p>
+<p>
+Next go back to Microsoft Azure and type Resource Groups click on Vm-practice and type it in the delete resource group tab then click the delete red tab
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/1513d1ca-84d6-4383-bf0a-19f95a499ce5"/>
+</p>
+<p>
+Then just confirm the process by clicking delete again 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/40bf458c-a985-4847-b684-2237055fff6a"/>
+</p>
+<p>
+Now go to the next resource group if you have one and click delete resource group
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/1c682958-82be-4d8b-86b0-2891045ddac2"/>
+</p>
+<p>
+Then type the name in and click the red delete button
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/4deb6184-898a-4457-b51f-7b3f1e410b7f"/>
+</p>
+<p>
+Then to finish the process click delete again 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/b62da111-91fb-46d7-85d7-8dbed0c65e04"/>
+</p>
+<p>
+Then if you want to see the process click the bell icon on the top right 
+</p>
+<br />

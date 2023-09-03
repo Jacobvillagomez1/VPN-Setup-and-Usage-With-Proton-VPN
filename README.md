@@ -338,18 +338,18 @@ Now go back to whatisyouripaddress.com and refresh the page and you will see you
 
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/a1dbdeda-3902-4542-bef3-995c19e668ec"/>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/894afd2e-ad5b-4b01-95d2-73f8c60537a1"/>
 </p>
 <p>
-Now go back to Proton VPN and click quick connect!!!!!!!!!!!!!!!!!!!!!!!
+Now go back to Proton VPN and click disconnect, you can also click on any of Japan's IP that are availble on the left side once you click the arrow to expand the available IP
 </p>
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/5e945006-b9a4-4c71-b045-29444d0cfeda"/>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/acf372d3-4d49-4314-a8ba-531269573bf9"/>
 </p>
 <p>
-Now click the bar at the top left and click sign out to sign out of your account!!!!!!!!!!!!!!!!!!!!!!!
+Now click the bar at the top left and click sign out to sign out of your account
 </p>
 <br />
 

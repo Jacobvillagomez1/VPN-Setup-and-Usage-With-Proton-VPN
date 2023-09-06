@@ -1,6 +1,12 @@
 # VPN-Setup-and-Usage-With-Proton-VPN
 <p align="center">
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/29e12a4b-abba-4318-8534-514e3bdc1999"/>
+</p>
+<p align="center">
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/8d9ff422-dddb-401f-b3f1-56077ab38a4f"/>
+</p>
+<p align="center">
+<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/3a826f88-5515-4f9e-ab79-931bdf32acb2"/>
 </p>
 
 <h1>VPN Setup and Usage With Proton VPN</h1>
